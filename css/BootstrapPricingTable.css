@@ -253,13 +253,7 @@ body{background-color:#eee;}
 	 font-family: 'Raleway', sans-serif;
 }
 
-.text-center h1,
-.text-center h1 a{
-	color: #7885CB;
-	font-size: 30px;
-	font-weight: 300;
-	text-decoration: none;
-}
+
 .demo-pic{
 	margin: 0 auto;
 }
